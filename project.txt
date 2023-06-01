@@ -1,1 +1,2 @@
 This is the project file
+configured tomcat and updated latest versions. 
